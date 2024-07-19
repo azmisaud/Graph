@@ -14,6 +14,13 @@ This repository is dedicated to solving graph related problems using different a
 
 ## Problems Solved
 
+#### Basic
+1. Storing the Graph using Adjacency Matrix - [Solution](./Basic/StoringTheGraph1.java)
+2. Storing the Graph using Adjacency List - [Solution](./Basic/StoringTheGraph2.java)
+3. Storing the Directed Graph - [Solution](./Basic/StoringTheDirectedGraph.java)
+4. Storing the Weighted Graph - [Solution](./Basic/StoringTheWeightedGraph.java)
+
+
 #### Easy
 
 1. [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) - [Solution](./Easy/BFSofGraph.java)
