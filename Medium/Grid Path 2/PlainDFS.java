@@ -1,4 +1,4 @@
-class Solution {
+class PlainDFS {
     //Time Limit Exceeded
     static int dfs(int sRow,int sCol,int[][] grid,boolean[] visited){
         
