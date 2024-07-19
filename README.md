@@ -28,6 +28,11 @@ This repository is dedicated to solving graph related problems using different a
 3. [Maximum Weight Node](https://www.geeksforgeeks.org/problems/maximum-weight-node--170645/1) - [Solution](./Easy/MaximumWeightNode.java)
 4. [Print Adjacency List](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) - [Solution](./Easy/PrintAdjacencyList.java)
 
+#### Medium
+
+1. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java), [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
+
+   
 ## Installation
 1. Clone the repository
 2. Navigated to the directory
