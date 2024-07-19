@@ -1,4 +1,4 @@
-class Solution {
+class BFSofGraph {
     
     // Function to return Breadth First Traversal of given graph
     //The starting point is considered as 0
