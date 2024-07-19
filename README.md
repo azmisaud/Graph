@@ -15,6 +15,7 @@ This repository is dedicated to solving graph related problems using different a
 ## Problems Solved
 
 1. [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) - [Solution](./BFSofGraph.java)
+2. [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) - [Solution](./DFSofGraph.java)
 
 ## Installation
 1. Clone the repository
