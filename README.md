@@ -30,7 +30,7 @@ This repository is dedicated to solving graph related problems using different a
 
 #### Medium
 
-1. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java), [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
+1. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
 
    
 ## Installation
