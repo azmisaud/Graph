@@ -5,6 +5,7 @@ Welcome to the **Graph** repository! This repository contains solutions to vario
 
 - [About](#about)
 - [Problems Solved](#problems-solved)
+- [Important Classes and Algorithms](#important-classes-and-algorithms)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
@@ -32,6 +33,14 @@ This repository is dedicated to solving graph related problems using different a
 
 1. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
 
+## Important Classes and Algorithms
+
+1. BFS (Breadth First Search)
+2. DFS (Depth First Search)
+3. Flood Fill Algorithm
+4. Prim's Algorithm
+5. Kruskal's Algorithm
+6. Kosaraju's Algorithm
    
 ## Installation
 1. Clone the repository
