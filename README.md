@@ -48,11 +48,11 @@ This repository is dedicated to solving graph related problems using different a
    
 ## Installation
 1. Clone the repository
-2. Navigated to the directory
+2. Navigate to the directory
 
 ## Usage
 - Each solution can be uploaded on GFG.
 - If you are doing it in your IDE, please make sure to add the main method. The methods are provided, whole code is not provided.
 
 ## Contribution
-Contributions are welcome! If you have a new graph problem solution or an improvement to an existing one, feel free to open a pull request. Please ensure your solution is well-documented and tested.
+Contributions are welcome! If you have a new graph problem solution or an improvement to an existing one, feel free to open a pull request. Please ensure your solution is well tested.
