@@ -33,6 +33,10 @@ This repository is dedicated to solving graph related problems using different a
 
 1. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
 
+#### Hard
+
+1.[Find number of closed islands](https://www.geeksforgeeks.org/problems/find-number-of-closed-islands/1) - [Solution (BFS)](./Hard/Find%20Number%20Of%20Closed%20Islands/BFSApproach.java) , [Solution (DFS)](./Hard/Find%20Number%20Of%20Closed%20Islands/DFSApproach.java)
+
 ## Important Classes and Algorithms
 
 1. BFS (Breadth First Search)
