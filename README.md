@@ -35,7 +35,7 @@ This repository is dedicated to solving graph related problems using different a
 
 #### Hard
 
-1.[Find number of closed islands](https://www.geeksforgeeks.org/problems/find-number-of-closed-islands/1) - [Solution (BFS)](./Hard/Find%20Number%20Of%20Closed%20Islands/BFSApproach.java) , [Solution (DFS)](./Hard/Find%20Number%20Of%20Closed%20Islands/DFSApproach.java)
+1. [Find number of closed islands](https://www.geeksforgeeks.org/problems/find-number-of-closed-islands/1) - [Solution (BFS)](./Hard/Find%20Number%20Of%20Closed%20Islands/BFSApproach.java) , [Solution (DFS)](./Hard/Find%20Number%20Of%20Closed%20Islands/DFSApproach.java)
 
 ## Important Classes and Algorithms
 
