@@ -33,7 +33,8 @@ This repository is dedicated to solving graph related problems using different a
 
 1. [Number of Provinces](https://www.geeksforgeeks.org/problems/number-of-provinces/1) - [Solution (DFS)](./Medium/NumberOfProvinces/DFSApproach.java) , [Solution (DisjointSet)](./Medium/NumberOfProvinces/DisjointSetApproach.java)
 2. [Flood Fill Algorithm](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1) - [Solution](./Medium/FloodFillAlgorithm.java)
-3. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
+3. [Rotten Oranges](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1) - [Solution](./Medium/RottenOranges.java)
+4. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
 
 #### Hard
 
