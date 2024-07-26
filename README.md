@@ -35,8 +35,9 @@ This repository is dedicated to solving graph related problems using different a
 2. [Number of Islands](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) - [Solution](./Medium/NumberOfIslands.java)
 3. [Flood Fill Algorithm](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1) - [Solution](./Medium/FloodFillAlgorithm.java)
 4. [Rotten Oranges](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1) - [Solution](./Medium/RottenOranges.java)
-5. [Snake and Ladder Problem](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) - [Solution](./Medium/SnakeAndLadderProblem.java)
-6. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
+5. [Distance of Nearest Cell Having 1](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) - [Solution](./Medium/DistanceOfNearestCellHavingOne.java)
+6. [Snake and Ladder Problem](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) - [Solution](./Medium/SnakeAndLadderProblem.java)
+7. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
 
 #### Hard
 
