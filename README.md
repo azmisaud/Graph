@@ -39,6 +39,7 @@ This repository is dedicated to solving graph related problems using different a
 6. [Undiirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) - [Solution (BFS)](./Medium/Undirected%20Graph%20Cycle/usingBFS.java) , [Solution (DFS)](./Medium/Undirected%20Graph%20Cycle/usingDFS.java)
 7. [Snake and Ladder Problem](https://www.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1) - [Solution](./Medium/SnakeAndLadderProblem.java)
 8. [Grid Path 2](https://www.geeksforgeeks.org/problems/grid-path-2/1) - [Solution (TLE)](./Medium/Grid%20Path%202/PlainDFS.java)  ,  [Solution (Accepted)](./Medium/Grid%20Path%202/DFSwithMemorization.java)
+9. [Steps by Knight](https://www.geeksforgeeks.org/problems/steps-by-knight5927/1) - [Solution](./Medium/StepsByKnight.java)
 
 #### Hard
 
